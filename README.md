@@ -5,6 +5,10 @@ Protect Emacs buffers from being killed inadvertently.
 This package provides a configurable list of buffer names that should
 never be killed. 
 
+# ARCHIVED
+
+I no longer use this package, replacing this workflow with the built-in `emacs-lock` package.
+
 # Usage
 
 The `*Messages*` and `*scratch*` buffers are protected by
